@@ -1,5 +1,5 @@
 # Nasa Wallpapers For Trinity DE
-This enables nasa wallpapers on debian with Trinity DE.  
+This enables nasa 'wallpaper of the day' on debian with Trinity DE.  
 (this is based on my other script, bingwallpaper.sh , here: https://github.com/seb3773/bing-wallpapers-for-linux_tde )
 
 ## Description
