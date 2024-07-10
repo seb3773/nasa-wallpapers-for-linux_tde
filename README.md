@@ -21,7 +21,6 @@ Usage:
  "nasawallpaper.sh -r"    remove task from cron  
  "nasawallpaper.sh -i"    set check interval  
  "nasawallpaper.sh -f"    set wallpapers download folder  
- "nasawallpaper.sh -s"    set image size  
  "nasawallpaper.sh -p"    display status/settings  
  "nasawallpaper.sh -h"    help  
   
